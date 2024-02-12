@@ -71,3 +71,4 @@ if __name__ ==  "__main__":
     numN = getExponent(input)
     numK = getRange(input)
     findNearMiss(numN,numK)
+    input("Press Enter to exit...")
